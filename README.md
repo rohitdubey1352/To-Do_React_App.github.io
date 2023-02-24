@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Preview Mode Link: - 
+https://jade-pavlova-960d1a.netlify.app/
 
 ## Available Scripts
 
